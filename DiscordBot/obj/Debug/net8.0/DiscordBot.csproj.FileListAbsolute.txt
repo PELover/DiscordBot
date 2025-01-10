@@ -21,7 +21,6 @@ C:\DiscordMusicBot\DiscordBot\obj\Debug\net8.0\DiscordBot.GeneratedMSBuildEditor
 C:\DiscordMusicBot\DiscordBot\obj\Debug\net8.0\DiscordBot.AssemblyInfoInputs.cache
 C:\DiscordMusicBot\DiscordBot\obj\Debug\net8.0\DiscordBot.AssemblyInfo.cs
 C:\DiscordMusicBot\DiscordBot\obj\Debug\net8.0\DiscordBot.csproj.CoreCompileInputs.cache
-C:\DiscordMusicBot\DiscordBot\obj\Debug\net8.0\DiscordBot.sourcelink.json
 C:\DiscordMusicBot\DiscordBot\obj\Debug\net8.0\DiscordBot.csproj.Up2Date
 C:\DiscordMusicBot\DiscordBot\obj\Debug\net8.0\DiscordBot.dll
 C:\DiscordMusicBot\DiscordBot\obj\Debug\net8.0\refint\DiscordBot.dll
