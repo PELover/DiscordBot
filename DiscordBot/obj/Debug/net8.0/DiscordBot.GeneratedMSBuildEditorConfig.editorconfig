@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DiscordBot
-build_property.ProjectDir = C:\Users\mothz\source\repos\DiscordBot\DiscordBot\
+build_property.ProjectDir = C:\DiscordMusicBot\DiscordBot\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
