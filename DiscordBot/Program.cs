@@ -18,7 +18,7 @@ namespace DiscordBot
     class Program
     {
         private DiscordSocketClient _client;
-        private const string token = "MTMyNjQyMDM1MTEzMTA2MjI3Mw.G98elm.vBeLeIfUjiXmQOTD4FG1uqRH3CVZJ48gBieiu0";
+        private const string token = "";
 
         static void Main(string[] args) => new Program().RunBotAsync().GetAwaiter().GetResult();
         //รันโปรแกรมไม่อยากแก้ Main เลยสร้าง Task ใหม่
