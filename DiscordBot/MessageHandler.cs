@@ -152,7 +152,7 @@ namespace DiscordBot
                     }
                     else if(message.Content == "!help")
                     {
-                        await message.Channel.SendMessageAsync("!join = เรียกบอทเข้าแชทเสียง\n!dis = ไล่บอทออกแชทเสียง\n!dice = ทอยลูกเต๋า\n!p = เล่นเพลง\nตัวอย่างการใช้งาน\n!p https://www.youtube.com/watch?v=xxxxxxxx\n!p songname\n!qu = ลิสเพลง\n!skip = ข้ามเพลง");
+                        await message.Channel.SendMessageAsync("!join = เรียกบอทเข้าแชทเสียง\n!dis = ไล่บอทออกแชทเสียง\n!dice = ทอยลูกเต๋า\n!p = เล่นเพลง\nตัวอย่างการใช้งาน\n!p https://www.youtube.com/watch?v=xxxxxxxx\n!p songname\n!qu = ลิสเพลง\n!remove เลขลำดับ = ลบเพลงออกจากลิส\n!skip = ข้ามเพลง");
                     }
                 }
                 catch (Exception ex)
