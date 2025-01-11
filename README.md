@@ -7,4 +7,5 @@
 !p https://www.youtube.com/watch?v=xxxxxxxx<br>
 !p songname<br>
 !qu = ลิสเพลง<br>
+!remove เลขลำดับ = ลบเพลงออกจากลิส<br>
 !skip = ข้ามเพลง<br>
