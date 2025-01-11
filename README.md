@@ -1,10 +1,10 @@
-!help = แสดงคำสั่ง
-!join = เรียกบอทเข้าแชทเสียง
-!dis = ไล่บอทออกแชทเสียง
-!dice = ทอยลูกเต๋า
-!p = เล่นเพลง 
-ตัวอย่างการใช้งาน
-!p https://www.youtube.com/watch?v=xxxxxxxx
-!p songname
-!qu = ลิสเพลง
-!skip = ข้ามเพลง
+!help = แสดงคำสั่ง\n
+!join = เรียกบอทเข้าแชทเสียง\n
+!dis = ไล่บอทออกแชทเสียง\n
+!dice = ทอยลูกเต๋า\n
+!p = เล่นเพลง\n
+ตัวอย่างการใช้งาน\n
+!p https://www.youtube.com/watch?v=xxxxxxxx\n
+!p songname\n
+!qu = ลิสเพลง\n
+!skip = ข้ามเพลง\n
