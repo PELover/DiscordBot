@@ -136,6 +136,8 @@ namespace DiscordBot
                         string remove = message.Content.Substring(8);
                         YoutubeHandler.queue.RemoveAt(int.Parse(remove) - 1);
                     }
+                    // ข้ามเพลง
+                    // next song
                     else if (message.Content == "!skip")
                     {
                         // เช็คว่าเล่นเพลงอยู่ไหม
